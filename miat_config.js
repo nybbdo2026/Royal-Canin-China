@@ -1,18 +1,17 @@
 const brands = [
-    { name: "Hill's", img: "img/hills.png" },
-    { name: "Royal Canin", img: "img/royalcanin.png" }, 
-    { name: "Purina Pro Plan", img:"img/purina.png" }, 
+    { name: "Hill's", img: "img/acana.png" },
+    { name: "Royal Canin", img: "img/hills.png" }, 
+    { name: "Purina Pro Plan", img:"img/myfoodie.png" }, 
     { name: "Orijen", img:"img/orijen.png" },
-    { name: "Drools", img:"img/drools.png" },
-    { name: "Farmina Pet Foods", img:"img/farmina.png" },
-    { name: "Acana", img:"img/acana.png" },
-    { name: "Pedigree", img:"img/pedigree.png" }
+    { name: "Drools", img:"img/proplanet.png" },
+    { name: "Farmina Pet Foods", img:"img/purenatural.png" },
+    { name: "Acana", img:"img/royalcanin.png" },
+    { name: "Pedigree", img:"img/wanpy.png" }
   ];
 
 const category = "Pet Food"
 
-const attributes = ["Freedom","Discovery","Fighting spirit","Unconventional","Dynamic","Resilience","Boldness","Vigor","Transformative","Uniqueness","Pride","Perfection","Sophistication","Doing my best","Confidence","Optimization","Strong","Aspiration","Growth","Superior","Powerful","Control","Effective","Precision","Simplicity","Expertise","Proven","Scientific","Proactive","Trusted","Caring","Togetherness","Sense of harmony","Protection","Peace of mind","Devotion","Longevity","Companionship","Restore","Understanding","Joy","Carefreeness","Indulgence","Optimism","Naturalness","Happiness","Hope","Love","Wellness","Calm","Excitement","Zest for life","Vitality","Playfulness","Individuality","Energy","Proactive","Thrive","Extraordinary"];
-
+const attributes = ["自由","发现","斗志","非传统","充满活力","韧性","大胆","精力充沛","变革","独特","自豪","完美","讲究","尽力而为","自信","优化","强大","抱负","成长","卓越","有力量","掌控","有效","精准","简洁","专业","可靠","科学","积极主动","值得信赖","关心","团结","和谐感","保护","安心","奉献","长寿","陪伴","恢复","理解","喜悦","无忧无虑","纵容","乐观","自然","幸福","希望","爱","健康","平静","兴奋","生活热情","活力","顽皮","个性","精力","积极主动","茁壮成长","非凡"]
 const pretest_attributes = [
   "Hot", 
   "Cold", 
@@ -41,4 +40,4 @@ const pretest_images_multiple = [
 ]
 
 
-const survey_name = "Royal Canin Survey India"
+const survey_name = "Royal Canin Survey China"
